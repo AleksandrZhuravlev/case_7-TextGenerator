@@ -1,6 +1,7 @@
 # Case 7
 # Programmers:
 # Alexander Zhuravlev (75%)
+# test
 
 import random
 
